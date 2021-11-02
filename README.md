@@ -6,3 +6,5 @@ Reimplement SRGAN paper
 
 
 Dataset used: DIV2K
+
+I have used the DIV2K Dataset for High Quality images to train the Generator and Discriminator Models to train. The Dataset has 1000 2K resolution images divided into: 800 images for training, 100 images for validation, 100 images for testing
