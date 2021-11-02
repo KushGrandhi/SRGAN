@@ -14,3 +14,5 @@ Download train images: DIV2KTrain(http://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_
 Download Validation images: DIV2KTrain(http://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_valid_HR.zip)
 
 
+## Result:
+<img src="Results/ogphoto/pic10.jpg" height=300 width=500>|  <img src="Results/2x_32/pic10_2.jpeg" height=300 width=500>
