@@ -13,6 +13,19 @@ Download train images: DIV2KTrain(http://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_
 
 Download Validation images: DIV2KTrain(http://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_valid_HR.zip)
 
-
+## Training:
+The models have been trained for 50 epochs with a batch size of 32 images for 2X resolution of original image
+```
+Statestics of the model for 50 epochs are:
+PSNR: 28.5196 dB
+SSIM: 0.8826
+```
 ## Result:
-<img src="Results/ogphoto/pic10.jpg" height=300 width=500>|  <img src="Results/2x_32/pic10_2.jpeg" height=300 width=500>
+
+Result for Super Resolution with UPSCALE_FACTOR = 2
+
+ORIGINAL IMAGE | UPSCALED IMAGE
+
+<img src="Results/ogphoto/pic10.jpg" height=200 width=400>|  <img src="Results/2x_32/pic10_2.jpeg" height=200 width=400>
+<img src="Results/ogphoto/pic7.jpg" height=200 width=400>|  <img src="Results/2x_32/pic7.jpeg" height=200 width=400>
+<img src="Results/ogphoto/pic11.jpg" height=200 width=400>|  <img src="Results/2x_32/pic11_2.jpeg" height=200 width=400>
