@@ -24,7 +24,7 @@ SSIM: 0.8826
 
 Result for Super Resolution with UPSCALE_FACTOR = 2
 
-ORIGINAL High-Res IMAGE | UPSCALED IMAGE
+ORIGINAL IMAGE | UPSCALED IMAGE
 
 <img src="Results/ogphoto/pic10.jpg" height=200 width=400>|  <img src="Results/2x_32/pic10_2.jpeg" height=200 width=400>
 
